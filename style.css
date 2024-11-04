@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: red;
+    margin: auto;
+}
